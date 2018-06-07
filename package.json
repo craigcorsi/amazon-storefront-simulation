@@ -1,0 +1,23 @@
+{
+  "name": "amazon-storefront-simulation",
+  "version": "1.0.0",
+  "description": "Node app using mysql to simulate retail stock data manipulation",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigcorsi/amazon-storefront-simulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigcorsi/amazon-storefront-simulation/issues"
+  },
+  "homepage": "https://github.com/craigcorsi/amazon-storefront-simulation#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
